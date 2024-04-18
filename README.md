@@ -19,4 +19,4 @@ $ checkout //traer cambios realizado
 $ git rm --cached archivo.extencion//se usa para devolver el archivo que se tiene en ram cuando escribimos git add lo devuleve a estado natural mientra esta en staging
 $ git config --list //muestra la lista de configuracion de git
 $ git config --list --show-origin//rutas de acceso a la configuración de git
-$ git log archivo.extencion //muestra la historia del archivo
+$ git log archivo.extension //muestra la historia del archivo
